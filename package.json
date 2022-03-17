@@ -1,0 +1,24 @@
+{
+	"name": "yuyuko-vim-vsc",
+	"displayName": "yuyuko-vim-vsc",
+	"description": "A vscode color theme, from yuyuko.vim",
+	"version": "0.1.2",
+	"publisher": "hylwxqwq",
+	"icon": "Icon/logo.jpg",
+	"engines": {
+		"vscode": "^1.6.5"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes":[
+			{
+				"label": "yuyuko-vim-vsc",
+				"uiTheme": "vs-dark",
+				"path": "./themes/yuyuko-vscode-color-theme.json"
+			}
+		]
+	}
+
+}
