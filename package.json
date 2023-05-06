@@ -2,6 +2,7 @@
 	"name": "yuyuko-vim-vsc",
 	"displayName": "yuyuko-vim-vsc",
 	"description": "A vscode color theme, from yuyuko.vim",
+	"repository": "https://github.com/hylwxqwq/yuyuko-vim-vsc",
 	"version": "0.2.1",
 	"publisher": "hylwxqwq",
 	"icon": "Icon/logo.jpg",
