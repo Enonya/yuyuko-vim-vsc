@@ -6,18 +6,18 @@ This is the vscode version for [yuyuko.vim](https://github.com/hylwxqwq/yuyuko.v
 
 Now you can view it on [Marketplace](https://marketplace.visualstudio.com/items?itemName=hylwxqwq.yuyuko-vim-vsc)
 
-## To-Do
-
-- [ ] Change the json, make it more like the yuyuko.vim.
-- [ ] Monaco support.
-- [x] Publish to marketplace for vscode.
-
 ## ScreenShots
 
-[![q9co1e.png](https://s1.ax1x.com/2022/03/17/q9co1e.png)](https://imgtu.com/i/q9co1e)
+Original theme:
 
-## Install
+![2](https://user-images.githubusercontent.com/77879721/236624215-3cf6f917-80a8-4db5-ab53-b9f6a2ac4c1d.png)
 
-Search `yuyuko-vim-vsc` in your vscode extension market and install.
+Ocean theme: (thanks to [H2Sxxa](https://github.com/H2Sxxa)'s great contribution!)
 
-or Type Ctrl+P and input : `ext install hylwxqwq.yuyuko-vim-vsc` in your vscode.
+![1](https://user-images.githubusercontent.com/77879721/236624226-99be2eba-c0b0-49fc-9535-cca08da00937.png)
+
+## Installation
+
+Search `yuyuko-vim-vsc` in your vscode extension market,
+
+or simply type `Ctrl+P` and input : `ext install hylwxqwq.yuyuko-vim-vsc` in your Vscode.
