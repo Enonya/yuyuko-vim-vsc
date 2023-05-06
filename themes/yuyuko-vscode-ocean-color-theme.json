@@ -2009,8 +2009,7 @@
     "editorWidget.resizeBorder": "#5F5F5F",
     "pickerGroup.border": "#3f3f46",
     "pickerGroup.foreground": "#ce30fb",
-    "debugToolBar.background": "#333333",
-    "debugToolBar.border": "#474747",
+    "debugToolBar.background": "#0F111A",
     "notifications.foreground": "#cccccc",
     "notifications.background": "#0F111A",
     "notificationsErrorIcon.foreground": "#f48771",
@@ -2058,10 +2057,10 @@
     "peekViewResult.background": "#EEFFFF05",
     "peekViewEditorGutter.background": "#EEFFFF05",
     "icon.foreground": "#cccccc",
-    "checkbox.background": "#3c3c3c",
+    "checkbox.background": "#0F111A",
     "checkbox.foreground": "#cccccc",
     "checkbox.border": "#00000000",
-    "dropdown.background": "#3c3c3c",
+    "dropdown.background": "#0F111A",
     "dropdown.foreground": "#cccccc",
     "dropdown.border": "#00000000",
     "minimapGutter.addedBackground": "#587c0c",
@@ -2087,7 +2086,5 @@
     "walkThrough.embeddedEditorBackground": "#00000050",
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
     "editorGutter.commentRangeForeground": "#dfafdf",
-    "debugExceptionWidget.background": "#333333",
-    "debugExceptionWidget.border": "#474747"
   }
 }
