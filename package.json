@@ -17,6 +17,11 @@
 				"label": "yuyuko-vim-vsc",
 				"uiTheme": "vs-dark",
 				"path": "./themes/yuyuko-vscode-color-theme.json"
+			},
+			{
+				"label": "yuyuko-vim-vsc ocean",
+				"uiTheme": "vs-dark",
+				"path": "./themes/yuyuko-vscode-ocean-color-theme.json"
 			}
 		]
 	}
